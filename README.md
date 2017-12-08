@@ -8,4 +8,4 @@
 `адрес_вашего_сайта/index.php?route=extension/feed/yandex_market`
 
 Пример сгенерированного файла можно найти по ссылке:
-`http://www.dreamworld.com.ua/index.php?route=extension/feed/yandex_market`
+http://www.dreamworld.com.ua/index.php?route=extension/feed/yandex_market
