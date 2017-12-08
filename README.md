@@ -1,4 +1,4 @@
-#Yandex.Market feed for OC 2.3.x.x
+# Yandex.Market feed for OC 2.3.x.x
 
 Расширение для интеграции интернет-магазина на базе CMS OpenCart 2.3.x.x с Yandex.Market и другими агрегаторами товаров, которые работают с YAML-списками.
 
